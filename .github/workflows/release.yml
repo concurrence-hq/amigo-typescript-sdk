@@ -50,6 +50,10 @@ on:
         type: string
         default: ''
 
+# npm trusted publishing: the npm trusted publisher for @amigo-ai/sdk must name
+# `concurrence-hq/amigo-typescript-sdk` and this workflow file (no environment).
+# `package.json` `repository.url` must name the same repo or npm rejects the
+# provenance statement.
 permissions:
   contents: write
 

@@ -50,7 +50,7 @@ Integration tests require valid Amigo API credentials in the environment.
 
 ## Type Generation
 
-Code generation reads the committed Classic API snapshot and writes `src/generated/api-types.ts`. Platform types and resources belong to the separate [Platform SDK](https://github.com/amigo-ai/amigo-platform-typescript-sdk). Builds do not fetch a newer API schema unless you explicitly run `openapi:sync`.
+Code generation reads the committed Classic API snapshot and writes `src/generated/api-types.ts`. Platform types and resources belong to the separate [Platform SDK](https://github.com/concurrence-hq/amigo-platform-typescript-sdk). Builds do not fetch a newer API schema unless you explicitly run `openapi:sync`.
 
 Never edit generated files manually.
 
