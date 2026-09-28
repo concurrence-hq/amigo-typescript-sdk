@@ -4,30 +4,30 @@
 
 ### Features
 
-- Expose documented resources and harden package releases ([#62](https://github.com/amigo-ai/amigo-typescript-sdk/pull/62)).
+- Expose documented resources and harden package releases ([#62](https://github.com/concurrence-hq/amigo-typescript-sdk/pull/62)).
 
 ## [2.0.0] - 2026-09-08
 
 ### Bug Fixes
 
-- refresh Classic types from the current public contract ([#60](https://github.com/amigo-ai/amigo-typescript-sdk/pull/60))
-- align organization fixture with generated types ([#46](https://github.com/amigo-ai/amigo-typescript-sdk/pull/46))
+- refresh Classic types from the current public contract ([#60](https://github.com/concurrence-hq/amigo-typescript-sdk/pull/60))
+- align organization fixture with generated types ([#46](https://github.com/concurrence-hq/amigo-typescript-sdk/pull/46))
 
 ### Documentation
 
-- point classic SDK links at live docs routes ([#53](https://github.com/amigo-ai/amigo-typescript-sdk/pull/53))
-- sharpen the classic sdk front door ([#52](https://github.com/amigo-ai/amigo-typescript-sdk/pull/52))
+- point classic SDK links at live docs routes ([#53](https://github.com/concurrence-hq/amigo-typescript-sdk/pull/53))
+- sharpen the classic sdk front door ([#52](https://github.com/concurrence-hq/amigo-typescript-sdk/pull/52))
 
 ### CI
 
-- enable npm trusted publishing in Classic releases ([#61](https://github.com/amigo-ai/amigo-typescript-sdk/pull/61))
-- skip integration when secrets are unavailable ([#51](https://github.com/amigo-ai/amigo-typescript-sdk/pull/51))
+- enable npm trusted publishing in Classic releases ([#61](https://github.com/concurrence-hq/amigo-typescript-sdk/pull/61))
+- skip integration when secrets are unavailable ([#51](https://github.com/concurrence-hq/amigo-typescript-sdk/pull/51))
 
 ### Chores
 
-- move docs deploy to node24 runtime ([#49](https://github.com/amigo-ai/amigo-typescript-sdk/pull/49))
-- remove transitive action runtime warnings ([#47](https://github.com/amigo-ai/amigo-typescript-sdk/pull/47))
-- harden release and CI workflows ([#44](https://github.com/amigo-ai/amigo-typescript-sdk/pull/44))
+- move docs deploy to node24 runtime ([#49](https://github.com/concurrence-hq/amigo-typescript-sdk/pull/49))
+- remove transitive action runtime warnings ([#47](https://github.com/concurrence-hq/amigo-typescript-sdk/pull/47))
+- harden release and CI workflows ([#44](https://github.com/concurrence-hq/amigo-typescript-sdk/pull/44))
 
 All notable changes to the Amigo TypeScript SDK will be documented in this file.
 
@@ -94,4 +94,4 @@ This project follows [Semantic Versioning](https://semver.org/) and the format i
 
 ---
 
-> **Note**: Earlier versions were auto-released from OpenAPI spec changes. See [GitHub Releases](https://github.com/amigo-ai/amigo-typescript-sdk/releases) for the full history.
+> **Note**: Earlier versions were auto-released from OpenAPI spec changes. See [GitHub Releases](https://github.com/concurrence-hq/amigo-typescript-sdk/releases) for the full history.

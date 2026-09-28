@@ -11,17 +11,17 @@
   ·
   <a href="https://docs.amigo.ai/developer-guide/classic-api/sdks">Developer Guide</a>
   ·
-  <a href="https://amigo-ai.github.io/amigo-typescript-sdk/">API Reference</a>
+  <a href="https://concurrence-hq.github.io/amigo-typescript-sdk/">API Reference</a>
   ·
-  <a href="https://github.com/amigo-ai/amigo-typescript-sdk/tree/main/examples">Examples</a>
+  <a href="https://github.com/concurrence-hq/amigo-typescript-sdk/tree/main/examples">Examples</a>
   ·
-  <a href="https://github.com/amigo-ai/amigo-typescript-sdk/blob/main/CHANGELOG.md">Changelog</a>
+  <a href="https://github.com/concurrence-hq/amigo-typescript-sdk/blob/main/CHANGELOG.md">Changelog</a>
 </p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/@amigo-ai/sdk"><img src="https://img.shields.io/npm/v/%40amigo-ai%2Fsdk?logo=npm" alt="npm version" /></a>
-  <a href="https://github.com/amigo-ai/amigo-typescript-sdk/actions/workflows/test.yml"><img src="https://github.com/amigo-ai/amigo-typescript-sdk/actions/workflows/test.yml/badge.svg" alt="CI" /></a>
-  <a href="https://codecov.io/gh/amigo-ai/amigo-typescript-sdk"><img src="https://codecov.io/gh/amigo-ai/amigo-typescript-sdk/graph/badge.svg?token=PQU5JBU941" alt="codecov" /></a>
+  <a href="https://github.com/concurrence-hq/amigo-typescript-sdk/actions/workflows/test.yml"><img src="https://github.com/concurrence-hq/amigo-typescript-sdk/actions/workflows/test.yml/badge.svg" alt="CI" /></a>
+  <a href="https://codecov.io/gh/concurrence-hq/amigo-typescript-sdk"><img src="https://codecov.io/gh/concurrence-hq/amigo-typescript-sdk/graph/badge.svg?token=PQU5JBU941" alt="codecov" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License" /></a>
 </p>
 
@@ -41,20 +41,20 @@ The Platform API is where new workspace-scoped capabilities land first, but the 
 
 ## Choose The Right SDK
 
-| If you need                                                  | Start here                                                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| Existing org-scoped integrations on `api.amigo.ai`           | `@amigo-ai/sdk`                                                                       |
-| New workspace-scoped integrations on `api.platform.amigo.ai` | [`@amigo-ai/platform-sdk`](https://github.com/amigo-ai/amigo-platform-typescript-sdk) |
+| If you need                                                  | Start here                                                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| Existing org-scoped integrations on `api.amigo.ai`           | `@amigo-ai/sdk`                                                                             |
+| New workspace-scoped integrations on `api.platform.amigo.ai` | [`@amigo-ai/platform-sdk`](https://github.com/concurrence-hq/amigo-platform-typescript-sdk) |
 
 ## Documentation
 
-| Need                                    | Best entry point                                                                            |
-| --------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Product overview and deployment context | [docs.amigo.ai](https://docs.amigo.ai/)                                                     |
-| Integration guidance and developer docs | [Developer Guide](https://docs.amigo.ai/developer-guide/classic-api/sdks)                   |
-| Generated API reference                 | [amigo-ai.github.io/amigo-typescript-sdk](https://amigo-ai.github.io/amigo-typescript-sdk/) |
-| Runnable examples                       | [examples/](https://github.com/amigo-ai/amigo-typescript-sdk/tree/main/examples)            |
-| Release history                         | [CHANGELOG.md](https://github.com/amigo-ai/amigo-typescript-sdk/blob/main/CHANGELOG.md)     |
+| Need                                    | Best entry point                                                                                        |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Product overview and deployment context | [docs.amigo.ai](https://docs.amigo.ai/)                                                                 |
+| Integration guidance and developer docs | [Developer Guide](https://docs.amigo.ai/developer-guide/classic-api/sdks)                               |
+| Generated API reference                 | [concurrence-hq.github.io/amigo-typescript-sdk](https://concurrence-hq.github.io/amigo-typescript-sdk/) |
+| Runnable examples                       | [examples/](https://github.com/concurrence-hq/amigo-typescript-sdk/tree/main/examples)                  |
+| Release history                         | [CHANGELOG.md](https://github.com/concurrence-hq/amigo-typescript-sdk/blob/main/CHANGELOG.md)           |
 
 The docs site remains the primary reference. The repo-local examples stay close to the shipped package surface and are validated in CI.
 
@@ -157,4 +157,4 @@ try {
 
 ## Support
 
-Use the [issue tracker](https://github.com/amigo-ai/amigo-typescript-sdk/issues) for bugs and feature requests. For responsible disclosure, see [SECURITY.md](https://github.com/amigo-ai/amigo-typescript-sdk/blob/main/SECURITY.md).
+Use the [issue tracker](https://github.com/concurrence-hq/amigo-typescript-sdk/issues) for bugs and feature requests. For responsible disclosure, see [SECURITY.md](https://github.com/concurrence-hq/amigo-typescript-sdk/blob/main/SECURITY.md).
