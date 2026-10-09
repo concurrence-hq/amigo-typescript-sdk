@@ -64,7 +64,7 @@ jobs:
       skip_codecov: true
 
   release:
-    runs-on: ubuntu-latest
+    runs-on: blacksmith-4vcpu-ubuntu-2404
     needs: test
     env:
       VERSION_TYPE: ${{ inputs.version_type }}
